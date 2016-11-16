@@ -42,4 +42,4 @@ $ gnuplot < plot-data.png
 The previous command should create a file named "julia.png", that
 looks like the following image.
 
-![julia set fractal](https://github.com/jasonu/julia/julia.png "Julia set fractal")
+![julia set fractal](https://github.com/jasonu/julia/raw/master/julia.png "Julia set fractal")
