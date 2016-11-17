@@ -36,7 +36,7 @@ you can use the <code>plot-data.gp</code> gnuplot script assuming you
 have <code>gnuplot</code> installed on your system.
 
 ```
-$ gnuplot < plot-data.png
+$ gnuplot < plot-data.gp
 ```
 
 The previous command should create a file named "julia.png", that
